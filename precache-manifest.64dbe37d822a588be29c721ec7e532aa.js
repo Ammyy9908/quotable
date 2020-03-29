@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39c564793f3b96e5054ebbf145906c6d",
+    "revision": "fd636b23845fe734bdcda1a39f7df494",
     "url": "/quotable/index.html"
   },
   {
