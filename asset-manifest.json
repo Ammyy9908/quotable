@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/quotable/static/js/main.a49a0883.chunk.js",
-    "main.js.map": "/quotable/static/js/main.a49a0883.chunk.js.map",
+    "main.js": "/quotable/static/js/main.4d81257a.chunk.js",
+    "main.js.map": "/quotable/static/js/main.4d81257a.chunk.js.map",
     "runtime-main.js": "/quotable/static/js/runtime-main.88f8ebcd.js",
     "runtime-main.js.map": "/quotable/static/js/runtime-main.88f8ebcd.js.map",
     "static/js/2.30def9e7.chunk.js": "/quotable/static/js/2.30def9e7.chunk.js",
     "static/js/2.30def9e7.chunk.js.map": "/quotable/static/js/2.30def9e7.chunk.js.map",
     "index.html": "/quotable/index.html",
-    "precache-manifest.e2592936e442b5467dec40b72ecf419b.js": "/quotable/precache-manifest.e2592936e442b5467dec40b72ecf419b.js",
+    "precache-manifest.fa82125ef68a89a083d423c1cc1c1326.js": "/quotable/precache-manifest.fa82125ef68a89a083d423c1cc1c1326.js",
     "service-worker.js": "/quotable/service-worker.js",
     "static/js/2.30def9e7.chunk.js.LICENSE.txt": "/quotable/static/js/2.30def9e7.chunk.js.LICENSE.txt",
     "static/media/Devloper.png": "/quotable/static/media/Devloper.fa5a4493.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.88f8ebcd.js",
     "static/js/2.30def9e7.chunk.js",
-    "static/js/main.a49a0883.chunk.js"
+    "static/js/main.4d81257a.chunk.js"
   ]
 }
